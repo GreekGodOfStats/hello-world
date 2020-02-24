@@ -1,2 +1,2 @@
 # hello-world
-initial repository
+This a message to test changes made in a branch from the master
